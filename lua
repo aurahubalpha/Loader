@@ -8,7 +8,7 @@ print("🧾 Detected Game ID:", GameID)
 local Games = {
 	[91398255833706] = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/aurahubalpha/Scripts/refs/heads/main/1"))() end, -- VendingWorld
 	[78949013360566] = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/aurahubalpha/Scripts/refs/heads/main/2"))() end, -- Shoot a Brainrot
-	[1000000003] = function() loadstring(game:HttpGet(""))() end, -- Game 3
+	[79657240466394] = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/aurahubalpha/Scripts/refs/heads/main/3"))() end, -- Container Rng
 	[1000000004] = function() loadstring(game:HttpGet(""))() end, -- Game 4
 	[1000000005] = function() loadstring(game:HttpGet(""))() end, -- Game 5
 	[1000000006] = function() loadstring(game:HttpGet(""))() end, -- Game 6
