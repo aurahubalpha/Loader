@@ -6,7 +6,7 @@ print("🧾 Detected Game ID:", GameID)
 
 -- 🗂️ Game Library
 local Games = {
-	[1000000001] = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/aurahubalpha/Scripts/refs/heads/main/1"))() end, -- VendingWorld
+	[91398255833706] = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/aurahubalpha/Scripts/refs/heads/main/1"))() end, -- VendingWorld
 	[1000000002] = function() loadstring(game:HttpGet(""))() end, -- Game 2
 	[1000000003] = function() loadstring(game:HttpGet(""))() end, -- Game 3
 	[1000000004] = function() loadstring(game:HttpGet(""))() end, -- Game 4
